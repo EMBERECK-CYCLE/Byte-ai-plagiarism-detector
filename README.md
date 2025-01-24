@@ -1,2 +1,2 @@
-# Byte-ai-plagiarism-detector
-Byte-ai-plagiarism-detector
+# Byte AI Detector
+Science Fair 2024-2025 project.
