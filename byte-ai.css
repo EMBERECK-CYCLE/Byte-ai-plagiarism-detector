@@ -5,8 +5,9 @@
 }
 
 body{
-  background: linear-gradient(
-    black 80%;
-    navy
-  )
+  background-color: black;
+}
+
+.freakbob{
+  color: red;
 }
