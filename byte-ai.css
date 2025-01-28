@@ -6,8 +6,30 @@
 
 body{
   background-color: black;
+  font-family: "Courier New", sans-serif;
+  color: #EAECEE;
+}
+
+.title{
+  color: #39FF11;
+  text-decoration: none;
+  text-algin: left;
+}
+
+.title:hover{ 
+  text-decoration: none;
+  color: #90FF27;
 }
 
 .freakbob{
   color: red;
+}
+
+.nav-link{
+  color: #EAECEE;
+  text-decoration: none;
+}
+
+.nav-link{
+  color: #F2F4F4;
 }
